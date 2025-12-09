@@ -1,0 +1,14 @@
+********** Sales Amount Calculator ********** 
+
+This program estimates minimum sales
+
+  Minimum Sales      Target Amount
+----------------------------------------
+    $251667.00         $40000.00
+    $335000.00         $50000.00
+    $418334.00         $60000.00
+    $501667.00         $70000.00
+    $585000.00         $80000.00
+
+
+ END OF PROGRAM!!!
